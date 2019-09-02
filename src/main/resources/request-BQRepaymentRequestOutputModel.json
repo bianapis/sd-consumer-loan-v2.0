@@ -1,0 +1,9 @@
+{
+  "repaymentRequestRecordReference" : "RRRR785491",
+  "repaymentRequestActionTaskReference" : "RRATR743427",
+  "repaymentRequestActionTaskRecord" : {},
+  "repaymentInstanceRecord" : {
+    "repaymentTransactionValueDate" : "09-22-2018"
+  },
+  "requestResponseRecord" : {}
+}

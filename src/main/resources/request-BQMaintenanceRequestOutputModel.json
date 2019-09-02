@@ -1,0 +1,57 @@
+{
+  "maintenanceRequestActionTaskRecord" : {},
+  "maintenanceRequestActionTaskReference" : "MRATR778618",
+  "maintenanceInstanceRecord" : {
+    "maintenanceReportType" : {
+      "penalties" : "penalties",
+      "loanFees" : "loanFees",
+      "collateralValuation" : "collateralValuation",
+      "loanFeeType" : "loanFeeType",
+      "loanTaxReport" : {}
+    }
+  },
+  "consumerLoanFulfillmentArrangementInstanceRecord" : {
+    "associations" : {
+      "associationReference" : "755871",
+      "associationType" : "associationType",
+      "associationObligationEntitlement" : "associationObligationEntitlement"
+    },
+    "taxReference" : "753274",
+    "restrictionOptionSetting" : "restrictionOptionSetting",
+    "loanType" : "loanType",
+    "insuranceReference" : "764017",
+    "loanAccessTerms" : "loanAccessTerms",
+    "interestType" : "interestType",
+    "customerCreditAssessmentReference" : "762415",
+    "loanApplicableRate" : "loanApplicableRate",
+    "productInstanceReference" : "737126",
+    "repaymentType" : "repaymentType",
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "customerReference" : "701480",
+    "loanRateType" : "loanRateType",
+    "loanRepaymentSchedule" : "loanRepaymentSchedule",
+    "loanCurrency" : "USD",
+    "customerAgreementReference" : "765543",
+    "collateralAllocation" : "collateralAllocation",
+    "restrictionOptionDefinition" : "restrictionOptionDefinition",
+    "stagedRepaymentStatement" : "stagedRepaymentStatement",
+    "interestAccrualMethod" : "interestAccrualMethod",
+    "partyReference" : "785354",
+    "collateralReference" : "754598",
+    "customerCommentary" : "customerCommentary",
+    "loanAmount" : "USD 250",
+    "bankBranchLocationReference" : "735712",
+    "consumerLoanNumber" : "consumerLoanNumber",
+    "entitlementOptionSetting" : "entitlementOptionSetting",
+    "loanOutstandingBalance" : "loanOutstandingBalance",
+    "bankAccountingUnitReference" : "755796",
+    "loanMaturityDate" : "09-22-2018",
+    "entitlementOptionDefinition" : "entitlementOptionDefinition",
+    "delinquencyCollectionReference" : "740257",
+    "loanOriginationDate" : "09-22-2018"
+  },
+  "maintenanceRequestRecordReference" : "MRRR770508",
+  "requestResponseRecord" : {}
+}

@@ -1,0 +1,64 @@
+{
+  "restructuringInstanceReport" : {
+    "restructuringInstanceReport" : {},
+    "restructuringInstanceReportRecord" : {},
+    "restructuringInstanceReportType" : "restructuringInstanceReportType",
+    "restructuringInstanceReportParameters" : "restructuringInstanceReportParameters"
+  },
+  "consumerLoanFulfillmentArrangementInstanceRecord" : {
+    "associations" : {
+      "associationReference" : "788890",
+      "associationType" : "associationType",
+      "associationObligationEntitlement" : "associationObligationEntitlement"
+    },
+    "taxReference" : "736853",
+    "restrictionOptionSetting" : "restrictionOptionSetting",
+    "loanType" : "loanType",
+    "insuranceReference" : "745123",
+    "loanAccessTerms" : "loanAccessTerms",
+    "interestType" : "interestType",
+    "customerCreditAssessmentReference" : "738639",
+    "loanApplicableRate" : "loanApplicableRate",
+    "productInstanceReference" : "747392",
+    "repaymentType" : "repaymentType",
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "customerReference" : "724868",
+    "loanRateType" : "loanRateType",
+    "loanRepaymentSchedule" : "loanRepaymentSchedule",
+    "loanCurrency" : "USD",
+    "customerAgreementReference" : "715140",
+    "collateralAllocation" : "collateralAllocation",
+    "restrictionOptionDefinition" : "restrictionOptionDefinition",
+    "stagedRepaymentStatement" : "stagedRepaymentStatement",
+    "interestAccrualMethod" : "interestAccrualMethod",
+    "partyReference" : "740312",
+    "collateralReference" : "753892",
+    "customerCommentary" : "customerCommentary",
+    "loanAmount" : "USD 250",
+    "bankBranchLocationReference" : "765614",
+    "consumerLoanNumber" : "consumerLoanNumber",
+    "entitlementOptionSetting" : "entitlementOptionSetting",
+    "loanOutstandingBalance" : "loanOutstandingBalance",
+    "bankAccountingUnitReference" : "771296",
+    "loanMaturityDate" : "09-22-2018",
+    "entitlementOptionDefinition" : "entitlementOptionDefinition",
+    "delinquencyCollectionReference" : "715124",
+    "loanOriginationDate" : "09-22-2018"
+  },
+  "restructuringInstanceAnalysis" : {
+    "restructuringInstanceAnalysisParameters" : "restructuringInstanceAnalysisParameters",
+    "restructuringInstanceAnalysisRecord" : {},
+    "restructuringInstanceAnalysisReport" : {},
+    "restructuringInstanceAnalysisReportType" : "restructuringInstanceAnalysisReportType"
+  },
+  "restructuringRetrieveActionTaskRecord" : {},
+  "restructuringRetrieveActionResponse" : "restructuringRetrieveActionResponse",
+  "restructuringInstanceRecord" : {
+    "restructuringEvaluation" : "restructuringEvaluation",
+    "restructuringWriteDown" : "restructuringWriteDown",
+    "restructuringTask" : "restructuringTask"
+  },
+  "restructuringRetrieveActionTaskReference" : "RRATR763401"
+}

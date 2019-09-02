@@ -1,0 +1,15 @@
+{
+  "consumerLoanFulfillmentArrangementInitiateActionReference" : "CLFAIAR760021",
+  "consumerLoanFulfillmentArrangementInstanceReference" : "CLFAIR790525",
+  "consumerLoanFulfillmentArrangementInstanceRecord" : {
+    "productInstanceReference" : "704173",
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "loanOutstandingBalance" : "loanOutstandingBalance",
+    "stagedRepaymentStatement" : "stagedRepaymentStatement",
+    "customerCommentary" : "customerCommentary"
+  },
+  "consumerLoanFulfillmentArrangementInitiateActionRecord" : {},
+  "consumerLoanFulfillmentArrangementInstanceStatus" : "consumerLoanFulfillmentArrangementInstanceStatus"
+}

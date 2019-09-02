@@ -1,0 +1,57 @@
+{
+  "consumerLoanFulfillmentArrangementInstanceAnalysis" : {
+    "consumerLoanFulfillmentArrangementInstanceAnalysisData" : "consumerLoanFulfillmentArrangementInstanceAnalysisData",
+    "consumerLoanFulfillmentArrangementInstanceAnalysisReportType" : "consumerLoanFulfillmentArrangementInstanceAnalysisReportType",
+    "consumerLoanFulfillmentArrangementInstanceAnalysisReport" : {}
+  },
+  "consumerLoanFulfillmentArrangementInstanceRecord" : {
+    "associations" : {
+      "associationReference" : "730856",
+      "associationType" : "associationType",
+      "associationObligationEntitlement" : "associationObligationEntitlement"
+    },
+    "taxReference" : "755276",
+    "restrictionOptionSetting" : "restrictionOptionSetting",
+    "loanType" : "loanType",
+    "insuranceReference" : "750598",
+    "loanAccessTerms" : "loanAccessTerms",
+    "interestType" : "interestType",
+    "customerCreditAssessmentReference" : "754535",
+    "loanApplicableRate" : "loanApplicableRate",
+    "productInstanceReference" : "786900",
+    "repaymentType" : "repaymentType",
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "customerReference" : "702011",
+    "loanRateType" : "loanRateType",
+    "loanRepaymentSchedule" : "loanRepaymentSchedule",
+    "loanCurrency" : "USD",
+    "customerAgreementReference" : "771667",
+    "collateralAllocation" : "collateralAllocation",
+    "restrictionOptionDefinition" : "restrictionOptionDefinition",
+    "stagedRepaymentStatement" : "stagedRepaymentStatement",
+    "interestAccrualMethod" : "interestAccrualMethod",
+    "partyReference" : "731507",
+    "collateralReference" : "763091",
+    "customerCommentary" : "customerCommentary",
+    "loanAmount" : "USD 250",
+    "bankBranchLocationReference" : "785545",
+    "consumerLoanNumber" : "consumerLoanNumber",
+    "entitlementOptionSetting" : "entitlementOptionSetting",
+    "loanOutstandingBalance" : "loanOutstandingBalance",
+    "bankAccountingUnitReference" : "728594",
+    "loanMaturityDate" : "09-22-2018",
+    "entitlementOptionDefinition" : "entitlementOptionDefinition",
+    "delinquencyCollectionReference" : "780466",
+    "loanOriginationDate" : "09-22-2018"
+  },
+  "consumerLoanFulfillmentArrangementRetrieveActionTaskRecord" : {},
+  "consumerLoanFulfillmentArrangementRetrieveActionTaskReference" : "CLFARATR702472",
+  "consumerLoanFulfillmentArrangementRetrieveActionResponse" : "consumerLoanFulfillmentArrangementRetrieveActionResponse",
+  "consumerLoanFulfillmentArrangementInstanceReportRecord" : {
+    "consumerLoanFulfillmentArrangementInstanceReportType" : "consumerLoanFulfillmentArrangementInstanceReportType",
+    "consumerLoanFulfillmentArrangementInstanceReportData" : "consumerLoanFulfillmentArrangementInstanceReportData",
+    "consumerLoanFulfillmentArrangementInstanceReport" : {}
+  }
+}

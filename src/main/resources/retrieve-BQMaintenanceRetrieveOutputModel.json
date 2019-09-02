@@ -1,0 +1,68 @@
+{
+  "maintenanceRetrieveActionTaskRecord" : {},
+  "maintenanceInstanceRecord" : {
+    "maintenanceReportType" : {
+      "penalties" : "penalties",
+      "loanFees" : "loanFees",
+      "collateralValuation" : "collateralValuation",
+      "loanFeeType" : "loanFeeType",
+      "loanTaxReport" : {}
+    }
+  },
+  "consumerLoanFulfillmentArrangementInstanceRecord" : {
+    "associations" : {
+      "associationReference" : "797263",
+      "associationType" : "associationType",
+      "associationObligationEntitlement" : "associationObligationEntitlement"
+    },
+    "taxReference" : "794760",
+    "restrictionOptionSetting" : "restrictionOptionSetting",
+    "loanType" : "loanType",
+    "insuranceReference" : "785998",
+    "loanAccessTerms" : "loanAccessTerms",
+    "interestType" : "interestType",
+    "customerCreditAssessmentReference" : "711468",
+    "loanApplicableRate" : "loanApplicableRate",
+    "productInstanceReference" : "708587",
+    "repaymentType" : "repaymentType",
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "customerReference" : "797211",
+    "loanRateType" : "loanRateType",
+    "loanRepaymentSchedule" : "loanRepaymentSchedule",
+    "loanCurrency" : "USD",
+    "customerAgreementReference" : "727889",
+    "collateralAllocation" : "collateralAllocation",
+    "restrictionOptionDefinition" : "restrictionOptionDefinition",
+    "stagedRepaymentStatement" : "stagedRepaymentStatement",
+    "interestAccrualMethod" : "interestAccrualMethod",
+    "partyReference" : "786852",
+    "collateralReference" : "731338",
+    "customerCommentary" : "customerCommentary",
+    "loanAmount" : "USD 250",
+    "bankBranchLocationReference" : "735261",
+    "consumerLoanNumber" : "consumerLoanNumber",
+    "entitlementOptionSetting" : "entitlementOptionSetting",
+    "loanOutstandingBalance" : "loanOutstandingBalance",
+    "bankAccountingUnitReference" : "728223",
+    "loanMaturityDate" : "09-22-2018",
+    "entitlementOptionDefinition" : "entitlementOptionDefinition",
+    "delinquencyCollectionReference" : "732145",
+    "loanOriginationDate" : "09-22-2018"
+  },
+  "maintenanceRetrieveActionTaskReference" : "MRATR744493",
+  "maintenanceInstanceReport" : {
+    "maintenanceInstanceReportRecord" : {},
+    "maintenanceInstanceReportParameters" : "maintenanceInstanceReportParameters",
+    "maintenanceInstanceReportType" : "maintenanceInstanceReportType",
+    "maintenanceInstanceReport" : {}
+  },
+  "maintenanceInstanceAnalysis" : {
+    "maintenanceInstanceAnalysisRecord" : {},
+    "maintenanceInstanceAnalysisReport" : {},
+    "maintenanceInstanceAnalysisReportType" : "maintenanceInstanceAnalysisReportType",
+    "maintenanceInstanceAnalysisParameters" : "maintenanceInstanceAnalysisParameters"
+  },
+  "maintenanceRetrieveActionResponse" : "maintenanceRetrieveActionResponse"
+}

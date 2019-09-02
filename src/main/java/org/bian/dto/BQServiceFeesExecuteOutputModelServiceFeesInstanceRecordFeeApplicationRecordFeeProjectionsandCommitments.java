@@ -1,0 +1,48 @@
+package org.bian.dto;
+
+import com.fasterxml.jackson.annotation.JsonProperty;
+import com.fasterxml.jackson.annotation.JsonCreator;
+import io.swagger.annotations.ApiModel;
+import io.swagger.annotations.ApiModelProperty;
+
+import javax.validation.Valid;
+  
+/**
+ * BQServiceFeesExecuteOutputModelServiceFeesInstanceRecordFeeApplicationRecordFeeProjectionsandCommitments
+ */
+public class BQServiceFeesExecuteOutputModelServiceFeesInstanceRecordFeeApplicationRecordFeeProjectionsandCommitments   {
+  private String projectedTransactionFeeType = null;
+
+  private String projectedTransactionFeeCharge = null;
+
+
+  /**
+   * `status: Registered`  iso-link: https://www.iso20022.org/standardsrepository/public/wqt/Description/mx/dico/bc/_Fbg_gMTGEeChad0JzLk7QA_-330542668/elements/_Fbg_gcTGEeChad0JzLk7QA_-70110816  bian-reference: FeeType  general-info: The fee or penalty type 
+   * @return projectedTransactionFeeType
+  **/
+
+  public String getProjectedTransactionFeeType() {
+    return projectedTransactionFeeType;
+  }
+
+  public void setProjectedTransactionFeeType(String projectedTransactionFeeType) {
+    this.projectedTransactionFeeType = projectedTransactionFeeType;
+  }
+
+
+  /**
+   * `status: Registered`  iso-link: https://www.iso20022.org/standardsrepository/public/wqt/Description/mx/dico/bc/_FMBK9sTGEeChad0JzLk7QA_-398781908/elements/_FMxY4MTGEeChad0JzLk7QA_1441631849  bian-reference: FeeAmount `status: Registered`  iso-link: https://www.iso20022.org/standardsrepository/public/wqt/Description/mx/dico/bc/_FMBK9sTGEeChad0JzLk7QA_-398781908/elements/_FMxY4sTGEeChad0JzLk7QA_1442552065  bian-reference:  `status: Registered`  iso-link: https://www.iso20022.org/standardsrepository/public/wqt/Description/mx/dico/bc/_FMBK9sTGEeChad0JzLk7QA_-398781908/elements/_5NR-UJtsEeG3aNA_yZwEkA  bian-reference:   general-info: The anticipated fee or penalty amount 
+   * @return projectedTransactionFeeCharge
+  **/
+
+  public String getProjectedTransactionFeeCharge() {
+    return projectedTransactionFeeCharge;
+  }
+
+  public void setProjectedTransactionFeeCharge(String projectedTransactionFeeCharge) {
+    this.projectedTransactionFeeCharge = projectedTransactionFeeCharge;
+  }
+
+
+}
+

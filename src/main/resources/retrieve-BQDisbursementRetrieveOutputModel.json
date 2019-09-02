@@ -1,0 +1,36 @@
+{
+  "consumerLoanFulfillmentArrangementInstanceRecord" : {
+    "productInstanceReference" : "725454",
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "consumerLoanNumber" : "consumerLoanNumber",
+    "loanOutstandingBalance" : "loanOutstandingBalance",
+    "customerReference" : "768403",
+    "partyReference" : "740919",
+    "loanOriginationDate" : "09-22-2018"
+  },
+  "disbursementInstanceRecord" : {
+    "disbursementValueDate" : "09-22-2018",
+    "disbursementPayeeProductInstanceReference" : "713177",
+    "disbursementPayeeBankReference" : "791650",
+    "disbursementCurrency" : "USD",
+    "disbursementPayeeReference" : "793752",
+    "disbursementAmount" : "USD 250"
+  },
+  "disbursementRetrieveActionResponse" : "disbursementRetrieveActionResponse",
+  "disbursementInstanceAnalysis" : {
+    "disbursementInstanceAnalysisReport" : {},
+    "disbursementInstanceAnalysisRecord" : {},
+    "disbursementInstanceAnalysisParameters" : "disbursementInstanceAnalysisParameters",
+    "disbursementInstanceAnalysisReportType" : "disbursementInstanceAnalysisReportType"
+  },
+  "disbursementInstanceReport" : {
+    "disbursementInstanceReportType" : "disbursementInstanceReportType",
+    "disbursementInstanceReportRecord" : {},
+    "disbursementInstanceReportParameters" : "disbursementInstanceReportParameters",
+    "disbursementInstanceReport" : {}
+  },
+  "disbursementRetrieveActionTaskRecord" : {},
+  "disbursementRetrieveActionTaskReference" : "DRATR784770"
+}

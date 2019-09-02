@@ -1,0 +1,11 @@
+{
+  "withdrawalExecuteRecordReference" : "WERR778572",
+  "executeResponseRecord" : {},
+  "withdrawalExecuteActionTaskRecord" : {},
+  "withdrawalExecuteActionTaskReference" : "WEATR717207",
+  "withdrawalInstanceRecord" : {
+    "paymentTransaction" : {
+      "paymentTransactionStatus" : "paymentTransactionStatus"
+    }
+  }
+}
